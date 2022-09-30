@@ -1,2 +1,0 @@
-Otras pruebas de comandos.
-Seguimos con git rm --cached
