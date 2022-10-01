@@ -1,2 +1,2 @@
 Ingresamos un número
-Ingresamos una letra
+Ingresamos una letra mas
