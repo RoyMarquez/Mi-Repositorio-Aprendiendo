@@ -1,1 +1,2 @@
-Ingresamos una línea
+Ingresamos un número
+Ingresamos una letra
