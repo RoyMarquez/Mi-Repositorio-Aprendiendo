@@ -1,5 +1,3 @@
-Debo ir al mercado
-Debo cortatrme el pelo
-Tengo que terminar este curso
-Luego voy a otro de GIT
+Realizando cambios para prueba de ramas.
+
 
