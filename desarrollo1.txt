@@ -2,3 +2,4 @@ Perro
 Gato
 Ardilla
 Vaca
+Cebra
