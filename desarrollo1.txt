@@ -2,6 +2,3 @@ Perro
 Gato
 Ardilla
 Vaca
-Búfalo
-Paloma
-Caimán
