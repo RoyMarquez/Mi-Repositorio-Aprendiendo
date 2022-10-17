@@ -1,5 +1,1 @@
 Perro
-Gato
-Ardilla
-Vaca
-Caballo
